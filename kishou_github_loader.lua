@@ -3,8 +3,8 @@
 -- 2) Fill in the 4 lines below
 -- 3) Upload THIS file to the same repo, then run:
 --    loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/kishou_github_loader.lua"))()
-local GITHUB_USER   = "YOUR_USERNAME"
-local GITHUB_REPO   = "YOUR_REPO"
+local GITHUB_USER   = "jhonmanthemoon-blip"
+local GITHUB_REPO   = "HYDINTRO2"
 local GITHUB_BRANCH = "main"
 local REPO_FOLDER   = "kishou"     -- folder inside the repo that holds the frames + audio
 
