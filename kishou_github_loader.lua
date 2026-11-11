@@ -6,9 +6,9 @@
 local GITHUB_USER   = "jhonmanthemoon-blip"
 local GITHUB_REPO   = "HYDINTRO2"
 local GITHUB_BRANCH = "main"
-local REPO_FOLDER   = "kishou"     -- folder inside the repo that holds the frames + audio
+local REPO_FOLDER   = "kishou_github_loader"     -- folder inside the repo that holds the frames + audio
 
-local FOLDER       = "kishou/"     -- local workspace folder (frames are cached here, so the 2nd run is instant)
+local FOLDER       = "kishou_github_loader/"     -- local workspace folder (frames are cached here, so the 2nd run is instant)
 local SHEET_COUNT  = 532           -- number of image files
 local COLS         = 1
 local ROWS         = 1
