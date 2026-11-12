@@ -6,7 +6,7 @@
 local GITHUB_USER   = "jhonmanthemoon-blip"
 local GITHUB_REPO   = "HYDINTRO2"
 local GITHUB_BRANCH = "main"
-local REPO_FOLDER   = "kishou"           -- "" = files are in the repo root; or a folder name like "kishou"
+local REPO_FOLDER   = ""           -- "" = files are in the repo root; or a folder name like "kishou"
 
 local FOLDER       = "kishou/"     -- local workspace folder (frames are cached here, so the 2nd run is instant)
 local SHEET_COUNT  = 532           -- number of image files
